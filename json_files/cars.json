@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Red Car",
+    "acceleration": 1,
+    "max_speed": 130,
+    "image": "car2.png",
+    "mobility": 5,
+    "size": [50, 84]
+  },
+  {
+    "name": "Purple car",
+    "acceleration": 2,
+    "max_speed": 160,
+    "image": "car1.png",
+    "mobility": 10,
+    "size": [50, 77]
+  },
+  {
+    "name": "Bus",
+    "acceleration": 1,
+    "max_speed": 80,
+    "image": "car3.png",
+    "mobility": 5,
+    "size": [55, 129]
+  }
+]
+
